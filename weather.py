@@ -1,4 +1,7 @@
-#Weather API call - prints current weather to command line
+"""
+Weather API call - prints current weather for the city entered as arg
+NOTE - won't actually work, API key has been removed
+"""
 
 import json, sys, requests
 
