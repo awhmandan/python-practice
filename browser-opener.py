@@ -6,4 +6,4 @@ if len(sys.argv) > 1:
 
 webbrowser.open(url)
 
-#enter full site URL, e.g. https://www.reddit.com
+#enter full site URLs as further args e.g. browser-opener.py https://www.reddit.com
